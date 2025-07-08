@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Engineering student at Purdue focused on embedded systems and low-level software development.
+
+🔭 I’m currently working on:
+- Building clean, interesting Zephyr apps for embedded projects
+- A CI-enabled HIL System for [ES@P](https://embedded-purdue.github.io)'s projects involving complex DUTs
+- Senior design project (coming soon)
+- Git, Embedded C++, and Zephyr workshops for ES@P
+
+🌱 I’m currently learning:
+- Zephyr RTOS
+- Operating systems and compilers
+
+👯 I’m looking to add more embedded projects to ES@P. If you are Purdue-affiliated, working on something cool, and want help with funding, workspace, and mentorship, reach out on [linkedin](https://www.linkedin.com/in/alexayl).
