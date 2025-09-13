@@ -18,11 +18,13 @@ I'm a Computer Engineering student at Purdue focused on embedded systems and low
 🔭 I’m currently working on:
 - Building Zephyr applications for embedded projects
 - A CI-enabled HIL System for [ES@P](https://embedded-purdue.github.io)'s projects involving complex DUTs
-- Senior design project (coming soon)
+- A robot that can draw images on a whiteboard
 - Git, Embedded C++, and Zephyr workshops for ES@P
 
 🌱 I’m currently learning:
 - Zephyr RTOS
-- Operating systems and compilers
+- Operating systems
+- Compilers
+- Project Management and techical leadership
 
 👯 I’m looking to add more embedded projects to ES@P. If you are Purdue-affiliated, working on something cool, and want help with funding, workspace, and mentorship, reach out on [linkedin](https://www.linkedin.com/in/alexayl).
