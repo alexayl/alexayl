@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 
 I'm a Computer Engineering student at Purdue focused on embedded systems and low-level software development.
 
-🔭 I’m currently working on:
-- Building Zephyr applications for embedded projects
-- A CI-enabled HIL System for [ES@P](https://embedded-purdue.github.io)'s projects involving complex DUTs
-- A robot that can draw images on a whiteboard
-- Git, Embedded C++, and Zephyr workshops for ES@P
+I’m currently working on:
+- A HIL system for a drone flight controller
+- A robot that can take an uploaded image and draw it on the whiteboard
 
-🌱 I’m currently learning:
-- Zephyr RTOS
+I’m currently studying:
 - Operating systems
 - Compilers
-- Project Management and techical leadership
+- Embedded software design
 
 👯 I’m looking to add more embedded projects to ES@P. If you are Purdue-affiliated, working on something cool, and want help with funding, workspace, and mentorship, reach out on [linkedin](https://www.linkedin.com/in/alexayl).
