@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Engineering student at Purdue focused on embedded systems and low-level software development.
+I'm an embedded software engineer at Shield AI and MS ECE student at Purdue University.
 
-I’m currently working on:
-- A HIL system for a drone flight controller
-- A robot that can take an uploaded image and draw it on the whiteboard
+Outside of work, I'm working on:
+- Building emulated computer networks
+- Trying to find a cool personal project
 
 I’m currently studying:
-- Operating systems
-- Compilers
-- Embedded software design
-
-👯 I’m looking to add more embedded projects to ES@P. If you are Purdue-affiliated, working on something cool, and want help with funding, workspace, and mentorship, reach out on [linkedin](https://www.linkedin.com/in/alexayl).
+- C++ developement
+- Computer Networks
