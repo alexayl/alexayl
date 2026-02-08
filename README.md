@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 I'm an embedded software engineer at Shield AI and MS ECE student at Purdue University.
 
-Outside of work, I'm working on:
-- Building emulated computer networks
-- Trying to find a cool personal project
+Outside of work, I'm building:
+- Emulated computer networks
+- Fun little things with MCUs
 
 I’m currently studying:
 - C++ developement
